@@ -1,5 +1,5 @@
 # HomeForHeels
-"Homes for Heels" connects international and out-of-state students with North Carolinian peers for a smoother college transition, offering hosting and local advice during their college career.
+"Homes for Heels" connects international and out-of-state students with North Carolinian peers for a smoother college transition, offering hosting and local advice during their college career. View full project: https://youtu.be/OwdUevE8K6E
 
 ## Inspiration
 International and out-of-state UNC students face a hidden transition gap- no housing over breaks, no local knowledge, no easy way to connect with in-state peers. We wanted to fix that with a platform built by students, for students.
